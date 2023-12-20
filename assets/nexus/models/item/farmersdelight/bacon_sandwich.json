@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/bacon_sandwich",
         "layer0": "nexus:item/farmersdelight/bacon_sandwich"
     }
 }

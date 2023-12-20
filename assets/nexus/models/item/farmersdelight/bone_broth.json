@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/bone_broth",
         "layer0": "nexus:item/farmersdelight/bone_broth"
     }
 }

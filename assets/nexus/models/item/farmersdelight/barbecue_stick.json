@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/barbecue_stick",
         "layer0": "nexus:item/farmersdelight/barbecue_stick"
     }
 }

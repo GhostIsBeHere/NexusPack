@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/beef_stew",
         "layer0": "nexus:item/farmersdelight/beef_stew"
     }
 }

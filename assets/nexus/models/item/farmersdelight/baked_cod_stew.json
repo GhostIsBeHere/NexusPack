@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/baked_cod_stew",
         "layer0": "nexus:item/farmersdelight/baked_cod_stew"
     }
 }

@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/chicken_cuts",
         "layer0": "nexus:item/farmersdelight/chicken_cuts"
     }
 }

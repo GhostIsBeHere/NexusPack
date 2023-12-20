@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/cake_slice",
         "layer0": "nexus:item/farmersdelight/cake_slice"
     }
 }

@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
+        "particle": "nexus:item/farmersdelight/cabbage_rolls",
         "layer0": "nexus:item/farmersdelight/cabbage_rolls"
     }
 }
