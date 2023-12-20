@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/bread"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/beef_patty"}
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/beef_patty"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/cabbage_rolls"}
   ]
 }

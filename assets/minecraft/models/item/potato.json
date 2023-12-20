@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potato"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/cabbage_leaf"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/cabbage"},
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/cake_slice"}
+  ]
+}
