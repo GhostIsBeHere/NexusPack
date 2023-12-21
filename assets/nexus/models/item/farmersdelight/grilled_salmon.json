@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/grilled_salmon",
+        "layer0": "nexus:item/farmersdelight/grilled_salmon"
+    }
+}

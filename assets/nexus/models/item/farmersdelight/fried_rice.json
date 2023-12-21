@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/fried_rice",
+        "layer0": "nexus:item/farmersdelight/fried_rice"
+    }
+}

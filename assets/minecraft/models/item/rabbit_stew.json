@@ -8,6 +8,9 @@
     {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/beef_stew"},
     {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/chicken_soup"},
     {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/dog_food"},
-    {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/fish_stew"}
+    {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/fish_stew"},
+    {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/fried_rice"},
+    {"predicate": {"custom_model_data": 7}, "model": "nexus:item/farmersdelight/grilled_salmon"},
+    {"predicate": {"custom_model_data": 8}, "model": "nexus:item/farmersdelight/honey_glazed_ham"}
   ]
 }

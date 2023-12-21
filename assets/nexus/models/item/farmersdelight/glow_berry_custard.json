@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/glow_berry_custard",
+        "layer0": "nexus:item/farmersdelight/glow_berry_custard"
+    }
+}

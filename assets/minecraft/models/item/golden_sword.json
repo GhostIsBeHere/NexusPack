@@ -9,6 +9,7 @@
               "custom_model_data": 1450007
             },
             "model": "incendium:item/withersbane"
-        }
+        },
+        {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/golden_knife"}
     ]
 }
