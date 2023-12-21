@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/cooked_mutton_chops",
+        "layer0": "nexus:item/farmersdelight/cooked_mutton_chops"
+    }
+}

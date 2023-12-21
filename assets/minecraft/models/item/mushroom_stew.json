@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/mushroom_stew"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/bone_broth"}
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/bone_broth"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/cooked_rice"}
   ]
 }

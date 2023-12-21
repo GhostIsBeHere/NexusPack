@@ -4,11 +4,6 @@
     "layer0": "minecraft:item/diamond_sword"
   },
   "overrides": [
-        {
-            "predicate": {
-              "custom_model_data": 1450003
-            },
-            "model": "incendium:item/chilling"
-        }
-    ]
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/diamond_knife"}
+  ]
 }

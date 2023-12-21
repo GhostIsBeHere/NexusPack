@@ -4,9 +4,11 @@
     "layer0": "minecraft:item/apple"
   },
   "overrides": [
-    {
-      "predicate": {"custom_model_data": 1},
-      "model": "nexus:item/farmersdelight/apple_pie_slice"
-    }
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/apple_pie_slice"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/chocolate_pie_slice"},
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/cooked_chicken_cuts"},
+    {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/cooked_cod_slice"},
+    {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/cooked_mutton_chops"},
+    {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/cooked_salmon_slice"}
   ]
 }

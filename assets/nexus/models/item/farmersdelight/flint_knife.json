@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/flint_knife",
+        "layer0": "nexus:item/farmersdelightflint_knife"
+    }
+}

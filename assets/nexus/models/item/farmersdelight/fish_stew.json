@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/fish_stew",
+        "layer0": "nexus:item/farmersdelight/fish_stew"
+    }
+}
