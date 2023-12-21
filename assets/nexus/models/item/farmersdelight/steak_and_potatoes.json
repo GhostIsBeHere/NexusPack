@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/steak_and_potatoes",
+        "layer0": "nexus:item/farmersdelight/steak_and_potatoes"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/hot_cocoa",
+        "layer0": "nexus:item/farmersdelight/hot_cocoa"
+    }
+}

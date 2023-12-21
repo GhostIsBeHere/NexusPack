@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/sweet_berry_cookie",
+        "layer0": "nexus:item/farmersdelight/sweet_berry_cookie"
+    }
+}

@@ -10,6 +10,10 @@
     {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/cooked_cod_slice"},
     {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/cooked_mutton_chops"},
     {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/cooked_salmon_slice"},
-    {"predicate": {"custom_model_data": 7}, "model": "nexus:item/farmersdelight/fried_egg"}
+    {"predicate": {"custom_model_data": 7}, "model": "nexus:item/farmersdelight/fried_egg"},
+    {"predicate": {"custom_model_data": 8}, "model": "nexus:item/farmersdelight/melon_popsicle"},
+    {"predicate": {"custom_model_data": 9}, "model": "nexus:item/farmersdelight/pumpkin_pie_slice"},
+    {"predicate": {"custom_model_data": 10}, "model": "nexus:item/farmersdelight/pumpkin_slice"},
+    {"predicate": {"custom_model_data": 11}, "model": "nexus:item/farmersdelight/sweet_berry_cheesecake_slice"}
   ]
 }

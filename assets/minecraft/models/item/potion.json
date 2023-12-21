@@ -5,9 +5,9 @@
         "layer1": "item/potion"
     },
     "overrides": [
-        {
-            "predicate": {"custom_model_data": 1},
-            "model": "nexus:item/farmersdelight/apple_cider"
-        }
+        {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/apple_cider"},
+        {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/hot_cocoa"},
+        {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/melon_juice"},
+        {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/milk_bottle"}
     ]
 }

@@ -4,6 +4,11 @@
     "layer0": "minecraft:item/iron_horse_armor"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "honey_glazed_ham_item"}
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/honey_glazed_ham_item"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/rice_roll_medley_item"},
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/rice"},
+    {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/roast_chicken_item"},
+    {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/shepherds_pie_item"},
+    {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/stuffed_pumpkin_item"}
   ]
 }

@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/apple_pie"},
-    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/chocolate_pie"}
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/chocolate_pie"},
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/sweet_berry_cheesecake"}
   ]
 }

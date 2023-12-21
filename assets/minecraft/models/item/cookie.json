@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/cookie"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/honey_cookie"}
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/honey_cookie"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/pie_crust"},
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/sweet_berry_cookie"}
   ]
 }

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/wheat_dough",
+        "layer0": "nexus:item/farmersdelight/wheat_dough"
+    }
+}

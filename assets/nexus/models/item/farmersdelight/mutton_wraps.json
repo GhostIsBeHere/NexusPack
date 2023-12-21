@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/mutton_wrap",
+        "layer0": "nexus:item/farmersdelight/mutton_wrap"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/pie_crust",
+        "layer0": "nexus:item/farmersdelight/pie_crust"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/pasta_with_mutton_chop",
+        "layer0": "nexus:item/farmersdelight/pasta_with_mutton_chop"
+    }
+}

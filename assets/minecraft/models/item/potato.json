@@ -6,6 +6,8 @@
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/cabbage_leaf"},
     {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/cabbage"},
-    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/cake_slice"}
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/cake_slice"},
+    {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/onion"},
+    {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/tomato"}
   ]
 }

@@ -23,17 +23,18 @@
             },
             "model": "incendium:item/chilling"
         },
-        {
+    {
             "predicate": {
-            	"custom_model_data": 1450004
+              "custom_model_data": 1450004
             },
             "model": "incendium:item/sacrifice"
-        },
-        {
+    },
+    {
             "predicate": {
               "custom_model_data": 1450005
             },
             "model": "incendium:item/vampire"
-        }
+    },
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/netherite_knife"}
     ]
 }

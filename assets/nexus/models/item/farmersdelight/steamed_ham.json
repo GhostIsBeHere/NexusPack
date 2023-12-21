@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/steamed_ham",
+        "layer0": "nexus:item/farmersdelight/steamed_ham"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/kelp_roll",
+        "layer0": "nexus:item/farmersdelight/kelp_roll"
+    }
+}

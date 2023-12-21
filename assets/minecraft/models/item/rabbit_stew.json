@@ -11,6 +11,20 @@
     {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/fish_stew"},
     {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/fried_rice"},
     {"predicate": {"custom_model_data": 7}, "model": "nexus:item/farmersdelight/grilled_salmon"},
-    {"predicate": {"custom_model_data": 8}, "model": "nexus:item/farmersdelight/honey_glazed_ham"}
+    {"predicate": {"custom_model_data": 8}, "model": "nexus:item/farmersdelight/honey_glazed_ham"},
+    {"predicate": {"custom_model_data": 9}, "model": "nexus:item/farmersdelight/mushroom_rice"},
+    {"predicate": {"custom_model_data": 10}, "model": "nexus:item/farmersdelight/noodle_soup"},
+    {"predicate": {"custom_model_data": 11}, "model": "nexus:item/farmersdelight/pasta_with_meatballs"},
+    {"predicate": {"custom_model_data": 12}, "model": "nexus:item/farmersdelight/pasta_with_mutton_chop"},
+    {"predicate": {"custom_model_data": 13}, "model": "nexus:item/farmersdelight/pumpkin_soup"},
+    {"predicate": {"custom_model_data": 14}, "model": "nexus:item/farmersdelight/ratatouille"},
+    {"predicate": {"custom_model_data": 15}, "model": "nexus:item/farmersdelight/roast_chicken"},
+    {"predicate": {"custom_model_data": 16}, "model": "nexus:item/farmersdelight/roasted_mutton_chops"},
+    {"predicate": {"custom_model_data": 17}, "model": "nexus:item/farmersdelight/shepherds_pie"},
+    {"predicate": {"custom_model_data": 18}, "model": "nexus:item/farmersdelight/squid_ink_pasta"},
+    {"predicate": {"custom_model_data": 19}, "model": "nexus:item/farmersdelight/steak_and_potatoes"},
+    {"predicate": {"custom_model_data": 20}, "model": "nexus:item/farmersdelight/stuffed_pumpkin"},
+    {"predicate": {"custom_model_data": 21}, "model": "nexus:item/farmersdelight/vegetable_noodles"},
+    {"predicate": {"custom_model_data": 22}, "model": "nexus:item/farmersdelight/vegetable_soup"}
   ]
 }

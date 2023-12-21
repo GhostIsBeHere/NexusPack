@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/melon_juice",
+        "layer0": "nexus:item/farmersdelight/melon_juice"
+    }
+}

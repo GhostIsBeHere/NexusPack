@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/roast_chicken",
+        "layer0": "nexus:item/farmersdelight/roast_chicken"
+    }
+}

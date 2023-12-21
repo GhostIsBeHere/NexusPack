@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/chicken"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/chicken_cuts.json"}
+    {"predicate": {"custom_model_data": 1}, "model": "nexus:item/farmersdelight/chicken_cuts"},
+    {"predicate": {"custom_model_data": 2}, "model": "nexus:item/farmersdelight/raw_pasta"},
+    {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/wheat_dough"}
   ]
 }

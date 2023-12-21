@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/rice_roll_medley_item",
+        "layer0": "nexus:item/farmersdelight/rice_roll_medley_item"
+    }
+}

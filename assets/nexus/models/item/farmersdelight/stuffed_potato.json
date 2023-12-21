@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/stuffed_potato",
+        "layer0": "nexus:item/farmersdelight/stuffed_potato"
+    }
+}

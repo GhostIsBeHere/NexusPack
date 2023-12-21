@@ -9,6 +9,10 @@
     {"predicate": {"custom_model_data": 3}, "model": "nexus:item/farmersdelight/chicken_sandwich"},
     {"predicate": {"custom_model_data": 4}, "model": "nexus:item/farmersdelight/dumplings"},
     {"predicate": {"custom_model_data": 5}, "model": "nexus:item/farmersdelight/egg_sandwich"},
-    {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/hamburger"}
+    {"predicate": {"custom_model_data": 6}, "model": "nexus:item/farmersdelight/hamburger"},
+    {"predicate": {"custom_model_data": 7}, "model": "nexus:item/farmersdelight/kelp_roll"},
+    {"predicate": {"custom_model_data": 8}, "model": "nexus:item/farmersdelight/mutton_wrap"},
+    {"predicate": {"custom_model_data": 9}, "model": "nexus:item/farmersdelight/smoked_ham"},
+    {"predicate": {"custom_model_data": 10}, "model": "nexus:item/farmersdelight/stuffed_potato"}
   ]
 }

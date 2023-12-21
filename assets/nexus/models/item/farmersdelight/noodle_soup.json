@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/noodle_soup",
+        "layer0": "nexus:item/farmersdelight/noodle_soup"
+    }
+}

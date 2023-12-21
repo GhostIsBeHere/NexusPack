@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "nexus:item/farmersdelight/ratatouille",
+        "layer0": "nexus:item/farmersdelight/ratatouille"
+    }
+}
