@@ -4,6 +4,6 @@
 		"layer0": "item/carrot_on_a_stick"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data": 4321}, "model": "item/knowledge_book" }
+		{ "predicate": {"custom_model_data": 4321}, "model": "item/wrench" }
 	]
 }
